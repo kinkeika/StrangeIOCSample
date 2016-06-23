@@ -1,6 +1,6 @@
 # StrangeIOCSample
 StrangeIOCサンプル（イベント方式）
 
-Game Start Scene
+Game Start Scene  
   ・Asset/Game/Scenes/GameManagerScene.Unity
 
